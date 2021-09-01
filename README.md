@@ -10,4 +10,4 @@ The screencast of the interactive CSMM workflow is available [here](https://yout
 System requirements: 
 
 * MS Windows 10 with MATLAB R2019b installed, 
-* Python >3.5 with requrements as in requirements.txt file.
+* Python >3.5 with requirements as in requirements.txt file.
